@@ -2,8 +2,8 @@
 This project modifies the original driver to enable changing the border color of the ePaper display.
 
 ## Screenshots
-![Black Border](https://github.com/frederik-andersen/micropython-ePaper-5in65-border-color/blob/main/images/black.JPEG)
-![Red Border](https://github.com/frederik-andersen/micropython-ePaper-5in65-border-color/blob/main/images/red.JPEG)
+<img src="(https://github.com/frederik-andersen/micropython-ePaper-5in65-border-color/blob/main/images/black.JPEG" align="left" height=auto width="600" >
+<img src="(https://github.com/frederik-andersen/micropython-ePaper-5in65-border-color/blob/main/images/red.JPEG" align="left" height=auto width="600" >
 
 ## Features
 - Change border color of the e-paper display
