@@ -2,8 +2,8 @@
 This project modifies the original driver to enable changing the border color of the ePaper display.
 
 ## Screenshots
-!Black Image
-!Red Image
+!black Image
+!red Image
 
 ## Features
 - Change border color of the e-paper display
